@@ -1,0 +1,5 @@
+DB_USER = 'nombre_usuario_base_datos'
+DB_HOST = 'localhost'
+DB_PASSWORD = 'password_base_de_datos'
+DB_NAME = 'cursos'
+DB_PORT = '5432'
